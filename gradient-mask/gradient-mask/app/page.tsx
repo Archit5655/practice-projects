@@ -3,7 +3,7 @@ export default function Home() {
   return (
   <>
  <Gradient/>
- {/* <GridBackGRound/> */}
+ <GridBackGRound/>
  <div>{}</div>
   </>
   );
