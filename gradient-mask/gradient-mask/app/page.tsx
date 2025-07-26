@@ -2,7 +2,7 @@ import Gradient from './components/Gradient-Mask';
 export default function Home() {
   return (
   <>
- <Gradient/>
+ <Gradient/> 
  {/* <GridBackGRound/> */}
  <div>{}</div>
   </>
