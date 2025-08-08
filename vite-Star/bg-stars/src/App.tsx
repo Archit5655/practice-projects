@@ -1,5 +1,4 @@
 // App.jsx
-import React from "react";
 import { Canvas } from "@react-three/fiber";
 import { StarField } from "./StarFeild";
 
@@ -8,6 +7,7 @@ function App() {
     <div style={{ width: "100vw", height: "100vh", background: "black" }}>
       <Canvas camera={{ position: [0, 0, 1] }}>
         <StarField count={5000} />
+        hI
       </Canvas>
     </div>
   );
