@@ -1,2 +1,6 @@
 Line 2
+
 Feature line
+
+Line 3
+
