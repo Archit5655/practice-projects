@@ -1,0 +1,107 @@
+[33mcommit 8b441ba0fbc39c43e013be7b75bc411962055e0f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature[m[33m, [m[1;31morigin/feature[m[33m)[m
+Author: Archit5655 <architgargagra@gmail.com>
+Date:   Sat Aug 9 14:28:27 2025 +0530
+
+    Add feature change
+
+[33mcommit 1919393c7402d169b5a95685009b148e03130959[m
+Author: Archit5655 <architgargagra@gmail.com>
+Date:   Sat Aug 9 14:25:43 2025 +0530
+
+    added second line
+
+[33mcommit f71493bd2050a29ccc44c063b82510102eed3b7f[m
+Author: Archit5655 <architgargagra@gmail.com>
+Date:   Sat Aug 9 14:23:03 2025 +0530
+
+    initial commit
+
+[33mcommit 744b2effba76ae5ac98c908d592368f3393421fd[m
+Author: Archit5655 <architgargagra@gmail.com>
+Date:   Fri Aug 8 21:44:30 2025 +0530
+
+    change
+
+[33mcommit 248825470e5fd56377696da1277ffd8830d3bdd7[m
+Author: Archit5655 <architgargagra@gmail.com>
+Date:   Mon Aug 4 00:12:22 2025 +0530
+
+    wstar animation in bg
+
+[33mcommit 5bddf6e536cec70431aa22eaf95cb8e0b0734387[m
+Author: Archit5655 <architgargagra@gmail.com>
+Date:   Sun Aug 3 03:02:59 2025 +0530
+
+    added  svg
+
+[33mcommit e64bf4556867806dad1c668dd9ccbe8bf2c119c6[m
+Author: Archit5655 <architgargagra@gmail.com>
+Date:   Sat Aug 2 01:17:27 2025 +0530
+
+    chANGE
+
+[33mcommit 83f4e170e2828fee5a810504b9e9f1ce0cc58aff[m
+Author: Archit5655 <architgargagra@gmail.com>
+Date:   Tue Jul 29 03:40:35 2025 +0530
+
+    commit
+
+[33mcommit 166c84b58683c9af4f71fd1988251057af63276c[m
+Author: Archit5655 <architgargagra@gmail.com>
+Date:   Sat Jul 26 21:55:59 2025 +0530
+
+    change
+
+[33mcommit 2ecc028a018dfcdbd91161501ed16679508e6d8e[m
+Author: Archit5655 <architgargagra@gmail.com>
+Date:   Fri Jul 25 03:39:49 2025 +0530
+
+    chnage
+
+[33mcommit f2993d3df02fa3e7e87ce6a953db51be6cdea254[m
+Author: Archit5655 <architgargagra@gmail.com>
+Date:   Mon Jul 21 16:31:28 2025 +0530
+
+    GridBackGRound component in Home page
+
+[33mcommit 322ac91f624dad5ecf6d89478fda5b64a9140b29[m
+Author: Archit5655 <architgargagra@gmail.com>
+Date:   Sat Jul 12 02:59:55 2025 +0530
+
+    Refactor code structure for improved readability and maintainability
+
+[33mcommit ef6c77e6b489de3ad0c0bc1f204bc7bcc56061b4[m
+Author: Archit5655 <architgargagra@gmail.com>
+Date:   Sat Jul 5 16:15:01 2025 +0530
+
+    Add initial project files for Redis URI check with ioredis integration
+
+[33mcommit f36af8b1c8e124cb7c7d3cb33f7eb9ffc0f9d218[m
+Author: Archit5655 <architgargagra@gmail.com>
+Date:   Fri Jul 4 01:03:19 2025 +0530
+
+    pushed the image to ecr
+
+[33mcommit 31db66c545c72829d953e0ab1f1ed0ce132d8b3d[m
+Author: Archit5655 <architgargagra@gmail.com>
+Date:   Thu Jul 3 01:53:00 2025 +0530
+
+    Initialize AWS ECS project with TypeScript and Express setup
+
+[33mcommit 016fe40d9c2a9707e5a2a8b5077d66d39f5be8fd[m
+Author: Archit5655 <architgargagra@gmail.com>
+Date:   Tue Jul 1 01:19:43 2025 +0530
+
+    dynamic gradient
+
+[33mcommit 99edd792b6c2a994a02e9563bcae7753ae6ae23c[m
+Author: Archit5655 <architgargagra@gmail.com>
+Date:   Sun Jun 29 18:31:49 2025 +0530
+
+    added donna
+
+[33mcommit 58eea4cc1ff8baf188e397b25f70b914ea152786[m
+Author: Archit5655 <architgargagra@gmail.com>
+Date:   Wed Apr 16 02:12:09 2025 +0530
+
+    Initial commit from Create Next App
