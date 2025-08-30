@@ -47,7 +47,6 @@ export default function Hero() {
             <h3 className="font-bold text-lg mb-3">🎉 Your Order is Completed!</h3>
             <div className="flex items-center justify-center space-x-4 mb-4">
               <div className="h-20 w-20 bg-gray-100 rounded-lg flex items-center justify-center">
-                <img src="/tshirt.png" alt="Tshirt" className="h-16" />
               </div>
               <div>
                 <p className="text-green-600 font-semibold text-lg">$15</p>
